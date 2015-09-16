@@ -10,7 +10,8 @@ A simple page to describe a bit about myself.
 N/A
 
 ## Details for teaching team
-No login required.
+No login required. Hopefully, this page will allow the team to learn more about me. I look forward to the course material and upcoming projects. 
+
 
 ## Outside code
 Bootstrap 
